@@ -11,9 +11,15 @@ In this project I have merged these two data sets to see if there is any relatio
 Skills developed in this project:
 
 1.Python programming
+
 2.Data analysis
+
 3.Statistics
+
 4.Seaborn
+
 5.Pandas
+
 6.Numpy
+
 7.Matplotlib
